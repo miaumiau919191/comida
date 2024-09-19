@@ -7,3 +7,7 @@ p {color: rgb(233, 27, 27);}
     font-style: initial;}
     .img1 {width: 60;
     }
+    element.style {
+        border: solid;
+     }
+     
