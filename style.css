@@ -9,8 +9,9 @@ p {color: rgb(233, 27, 27);}
     } 
     element.style {
         border: solid;
-     } section {background: rgb(red, green, blue);
+     } section {background: rgb(rgb(161, 39, 39), rgb(85, 175, 85), rgb(61, 61, 105));
     padding-bottom: 50px;
-padding-top: 50px;display: flex;
+padding-top: 50px;
+display: flex;
 justify-content: center;
 }
