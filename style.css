@@ -5,8 +5,7 @@ body {
 p {color: rgb(233, 27, 27);}
 .sam {
     font-style: initial;}
-    .img1 {width: 20;
-    } 
+    .img1{width: fit-content;}
     element.style {
         border: solid;
      } section {background: rgb(rgb(161, 39, 39), rgb(85, 175, 85), rgb(61, 61, 105));
